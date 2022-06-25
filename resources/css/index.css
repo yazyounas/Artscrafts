@@ -7,19 +7,19 @@ h1 {
   
 
 }
-
+/* Hacksaw Brushes*/
 .green {
     background-color: rgb(135, 235, 140);
     color: white;
     font-size: 40px;
 }
-
+/* Art Frames */
 .red {
     background-color: rgba(255, 0, 34, 0.904);
     color: white;
     font-size: 40px;
 }
-
+/* Paint tubes */
 .blue {
     background-color: skyblue;
     color: white;
