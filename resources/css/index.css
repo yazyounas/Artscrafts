@@ -4,8 +4,10 @@ h1 {
     font-size: 100px;
     text-align: center;
     padding: 10px;
-  
-
+}
+main {
+    margin-left:10px;
+    margin-right: 10px;
 }
 /* Hacksaw Brushes*/
 .green {
@@ -33,4 +35,13 @@ h1 {
 
 body {
     font-family: Helvetica;
+    margin: 0;
+    
+}
+footer {
+    background-color: maroon;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-top: 50px;
 }
